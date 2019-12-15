@@ -4,6 +4,23 @@
     box-sizing: border-box;
 }
 
+span#basic-addon2 {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+input.form-control.py-4.px-2.text-uppercase {
+    background: rgba(0, 0, 0, 0.4);
+}
+
+textarea.rounded.py-4.px-2 {
+    background: rgba(0, 0, 0, 0.4);
+    color: #fff;
+}
+
+input.form-control.py-4.px-2.text-uppercase {
+    background: rbga(0, 0, 0, 0.4)!important;
+}
+
 nav.navbar.navbar-expand-md.navbar-dark.fixed-top {
     background: rgba(0, 0, 0, 0.4);
 }
